@@ -1,1 +1,1 @@
-# 2106R_Wuillemin_BayesianNetwork
+# 2106-Wuillemin-BayesianNetwork
